@@ -41,7 +41,7 @@ The system uses a TCP-based communication protocol with the following command st
 - Command ID (1 byte)
 - Optional payload (varies by command)
 
-Supported commands include:
+Supported commands (WIP) include:
 - System control (takeoff, land, emergency stop)
 - PID tuning (set Kp, Ki, Kd)
 - Orientation control
